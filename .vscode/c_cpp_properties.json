@@ -1,0 +1,20 @@
+{
+        "configurations": [
+                {
+                        "name": "Linux",
+                        "includePath": [
+                                "${workspaceFolder}/**",
+                                "${workspaceFolder}/include",
+                                "/usr/local/zed/include",
+                                "/usr/local/cuda/include",
+                                "/home/yxk/workspace/darknet-master/include"
+                        ],
+                        "defines": [],
+                        "compilerPath": "/usr/bin/gcc",
+                        "cStandard": "gnu11",
+                        "cppStandard": "gnu++14",
+                        "intelliSenseMode": "linux-gcc-x64"
+                }
+        ],
+        "version": 4
+}
